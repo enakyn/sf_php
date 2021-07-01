@@ -1,5 +1,0 @@
-Neos:
-  SwiftMailer:
-    transport:
-      type: 'Neos\SwiftMailer\Transport\LoggingTransport'
-      options: []
